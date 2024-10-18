@@ -1,0 +1,6 @@
+{
+    "project_name": "My Project",
+    "author_name": "Carli Code",
+    "python_version": "3.8",
+    "license": ["MIT" , "GPL", "Apache"]
+}
